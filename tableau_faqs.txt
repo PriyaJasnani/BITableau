@@ -1,0 +1,34 @@
+1. What is the difference between Traditional BI Tools and Tableau?
+2.What Are the Data Types Supported in Tableau?
+3. How Will You Understand Dimensions and Measures?
+4.What is the difference between discrete and continuous in Tableau?
+5. What are the different Tableau Products and what is the latest version of Tableau?
+6. What is the difference between .twb and .twbx extension?
+7.What are the different types of joins in Tableau?
+8.What are the different connections you can make with your dataset?
+9. What is the Difference Between a Live Connection and an Extract?
+10. What are the different filters in Tableau and how are they different from each other?
+11.How to create a calculated field in Tableau?
+12.What is a dual axis?
+13.What is the difference between a tree map and heat map?
+14. What does bin mean in Tableau?
+15.What is the difference between joining and blending in Tableau?
+16.What is default Data Blending Join?
+17.What do you understand by blended axis?
+18. What is the Level of Detail (LOD) Expression?
+19.Mention what are different Tableau files?
+20. Design a View to Show Region Wise Profit and Sales.
+21.Design a view in a map such that if user selects any state, the cities under that state has to show profit and sales.
+There Are Three Customer Segments in the Superstore Dataset. What Percent of the Total Profits Are Associated with the Corporate Segment?
+22.What is the maximum no. of rows Tableau can utilize at one time?
+23. Which Visualization Will Be Used in the given Scenarios?
+To show aggregated sales totals across a range of product categories and subcategories
+To show the duration of events or activities 
+To show quarter wise profit growth 
+24.State some reasons for the low performance of Tableau? Explain in detail.
+25.State some ways to improve the performance of Tableau.
+26.If the owner of the published workbook license expires, then can other users see those workbooks?
+27.Which one is better? Extract or Live connection?
+28.Can we create cascading filters without using context filters?
+29.Do we have any data limitations in Tableau Public?
+30.Can we place an excel file in a shared location and use it to develop a report and refresh it in regular intervals?
